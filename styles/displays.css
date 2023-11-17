@@ -1,0 +1,22 @@
+.block{
+    display: block;
+    width: 100px;
+    height: 100px;position: relative;
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+
+
+}
+.inline{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 2px dotted red;
+
+    display: inline;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
