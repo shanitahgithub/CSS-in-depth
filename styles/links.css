@@ -1,0 +1,13 @@
+a:hover{
+    color: white;
+
+}
+body{
+    background-color: blue;
+
+}
+a{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}

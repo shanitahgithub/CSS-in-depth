@@ -1,9 +1,11 @@
-p{
-    border: 10px;
+.overflow{
+    border:2px solid black;
     
     width: 200px;
     height: 65px;
     background-color: coral;
     overflow-x: scroll;
     overflow-y: scroll;
+    font-size: 20px;
+
 }
