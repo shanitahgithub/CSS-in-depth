@@ -15,3 +15,28 @@
 
     
 }
+p{
+    
+    position: sticky;
+    top: 0;
+    background-color: green;
+    border: 2px solid blue;
+    font-size: 20px;
+    
+}
+h2{
+    position: static;
+    top: 0;
+    background-color: green;
+    border: 2px solid blue;
+    font-size: 20px;
+    
+}
+h3{
+    position: fixed;
+    top: 0;
+    background-color: green;
+    border: 2px solid blue;
+    border-radius: 5px;
+    font-size: 20px;
+}

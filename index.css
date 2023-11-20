@@ -11,7 +11,7 @@
     text-align: center;
     position: relative;left: 20%;right: 20%;
     color: orangered;
-    background-color:orange;
+    
     padding-right: 50px;
     padding-left: 50px;
     cursor: pointer;
@@ -21,6 +21,9 @@
 
 
 
+}
+body{
+    background-color:lightseagreen;
 }
 a:hover{
     color: white;
